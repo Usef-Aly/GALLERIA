@@ -271,10 +271,16 @@ footer {
     *{
         font-family: calibri;
     }
+    .search h1{
+        font-family: calibri;
+    }
     .search p {
         font-size: 1.5rem;
     }
-    .footer .copy-right {
+    .copy-right {
+    font-size: 12px
+    }
+    .footer .copy-right a {
         font-size: 13px;
     }
 }
