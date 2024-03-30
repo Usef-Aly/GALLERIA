@@ -2,7 +2,7 @@
     padding: 0%;
     margin: 0%;
     box-sizing: border-box;
-    font-family: cursive , sans-serif; 
+    font-family: cursive ; 
 }
 /* ^=====================Header*/
 .search {
@@ -269,6 +269,9 @@ footer {
 }
 /* ^=====================Media Query*/
 @media screen and (max-width: 767px) {
+    *{
+        font-family: calibri;
+    }
     .search p {
         font-size: 1.5rem;
     }
