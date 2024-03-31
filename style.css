@@ -256,7 +256,8 @@ footer {
     padding-block: 5px;
     font-size: 17px;
     position: fixed;
-    bottom: 0%;
+    bottom: 0;
+    width: 100%;
 }
 .copy-right {
     margin-left: 2.5%;
