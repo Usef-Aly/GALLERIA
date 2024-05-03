@@ -270,7 +270,7 @@ footer {
     color: #000;
 }
 /* ^=====================Media Query*/
-@media only screen and (max-width: 600px) {
+@media screen and (max-width: 770px) {
     *{
         font-family: calibri;
     }
