@@ -270,7 +270,20 @@ footer {
     color: #000;
 }
 /* ^=====================Media Query*/
-@media screen and (max-width: 770px) {
+@media screen and (max-width: 1200px){
+    .gallery .images {
+        columns: 4 100px;
+     }
+}
+@media screen and (max-width: 900px){
+    .gallery .images {
+        columns: 3 100px;
+     }
+     .search p {
+        font-size: 1.3rem;
+    }
+}
+@media screen and (max-width: 600px) {
     *{
         font-family: calibri;
     }
