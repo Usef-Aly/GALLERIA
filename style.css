@@ -2,11 +2,7 @@
     padding: 0%;
     margin: 0%;
     box-sizing: border-box;
-<<<<<<< HEAD
     font-family: cursive , sans-serif; 
-=======
-    font-family: cursive ; 
->>>>>>> f55f437d05f30056c95b63e2badb4a062674727e
 }
 /* ^=====================Header*/
 .search {
@@ -273,48 +269,22 @@ footer {
     color: #000;
 }
 /* ^=====================Media Query*/
-<<<<<<< HEAD
+
 @media screen and (max-width: 767px) {
     *{
         font-family: calibri;
     }
     .search p {
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
     .gallery .images {
-        columns: 2 130px;
-        }
+        columns: 2 100px;
+     }
     .copy-right {
-        font-size: 13px;
+        font-size: 12px;
     }
     .author {
-        font-size: 13px;
+        font-size: 12px;
     }
 }
-@media screen and (max-width: 900px){
-    .gallery .images {
-        columns: 3 200px;
-    }
-}
-=======
-@media screen and (max-width: 600px) {
-    *{
-        font-family: calibri;
-    }
-    .search h1{
-        font-family: calibri;
-    }
-    .search p {
-        font-size: 1.5rem;
-    }
-    .copy-right {
-        font-size: 13px
-    }
-    .author {
-        font-size: 13px;
-    }
-    .author a {
-        font-size: 13px;
-    }
-}
->>>>>>> f55f437d05f30056c95b63e2badb4a062674727e
+
