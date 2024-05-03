@@ -273,21 +273,20 @@ footer {
     color: #000;
 }
 /* ^=====================Media Query*/
-<<<<<<< HEAD
 @media screen and (max-width: 767px) {
     *{
         font-family: calibri;
     }
     .search p {
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
     .gallery .images {
         columns: 2 100px;
      }
     .copy-right {
-        font-size: 13px;
+        font-size: 12px;
     }
     .author {
-        font-size: 13px;
+        font-size: 12px;
     }
 }
