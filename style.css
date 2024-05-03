@@ -3,6 +3,12 @@
     margin: 0%;
     box-sizing: border-box;
     font-family: cursive , sans-serif; 
+<<<<<<< HEAD
+=======
+=======
+    font-family: cursive ; 
+
+>>>>>>> 01658bde8af516b5bb168e02d4f73ced941b483d
 }
 /* ^=====================Header*/
 .search {
@@ -269,7 +275,10 @@ footer {
     color: #000;
 }
 /* ^=====================Media Query*/
+<<<<<<< HEAD
 
+=======
+>>>>>>> 01658bde8af516b5bb168e02d4f73ced941b483d
 @media screen and (max-width: 767px) {
     *{
         font-family: calibri;
@@ -287,4 +296,7 @@ footer {
         font-size: 12px;
     }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 01658bde8af516b5bb168e02d4f73ced941b483d
