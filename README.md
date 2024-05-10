@@ -1,1 +1,2 @@
-![Galleria Preview-01](https://github.com/Usef-Aly/GALLERIA/assets/152383333/00410351-da86-4b5a-8df3-e25183173ca9)
+![Galleria Preview](https://github.com/Usef-Aly/GALLERIA/assets/152383333/25296d3b-b924-4478-be09-9aefce787dba)
+_________________________________________________________________________________________________________________________
